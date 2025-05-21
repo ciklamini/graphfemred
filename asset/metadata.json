@@ -1,8 +1,8 @@
 {
   "name": "Finite Element Model: Jet Vest",
-  "description": "A toy compilation of finite‑element models described in the accompanying article. More info in the Figshare record.",
-  "external_url": "https://doi.org/10.6084/m9.figshare.XXXXXX",
-  "doi": "10.6084/m9.figshare.XXXXXX",
-  "figshare_download": "https://ndownloader.figshare.com/files/99999999",
-  "license": "CC‑BY‑4.0"
+  "description": "This model supports study which presents a synergistic approach by integrating a finite element model to substantiate the potential benefits of reinforcement learning algorithms in design initialization and subsequent utilization. The accompanying finite element model serves as a robust validation tool, offering a comprehensive assessment of the efficacy and applicability of reinforcement learning methodologies in the context of design processes. By leveraging this integrated framework, we explore how reinforcement learning algorithms can enhance the efficiency and effectiveness of design initialization, providing valuable insights into their adaptability and performance in practical applications. This research contributes to the evolving landscape of design optimization, shedding light on the symbiotic relationship between reinforcement learning and finite element modelling for advanced engineering solutions.",
+  "external_url": "https://figshare.com/articles/media/Finite_Element_Model_Jet_Vest/24795051",
+  "doi": "10.6084/m9.figshare.24795051.v1",
+  "figshare_download": "https://figshare.com/ndownloader/files/43610637",
+  "license": "MIT"
 }
